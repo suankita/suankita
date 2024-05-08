@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suankita
+- 👋 Hi, I’m @kalamanush
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ...bca
 - 💞️ I’m looking to collaborate on ...
